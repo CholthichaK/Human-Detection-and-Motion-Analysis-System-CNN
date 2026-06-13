@@ -2,6 +2,9 @@
 
 A deep learning-based system for detecting and classifying human motions using Python and TensorFlow. The project processes video data, extracts features, and uses a Convolutional Neural Network (CNN) to recognize different human activities.
 
+<img width="1500" height="934" alt="Screenshot 2026-02-15 155436" src="https://github.com/user-attachments/assets/f4da5796-5848-4b18-9f04-e2dc29f43e7b" />
+
+
 ---
 
 ## Features
